@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vinitk1509/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/vinitk1509/LeetCode/tree/master/0217-contains-duplicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinitk1509/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/vinitk1509/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/vinitk1509/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3220-count-tested-devices-after-test-operations](https://github.com/vinitk1509/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/vinitk1509/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Math
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinitk1509/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Counting
+|  |
+| ------- |
+| [3220-count-tested-devices-after-test-operations](https://github.com/vinitk1509/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 <!---LeetCode Topics End-->
