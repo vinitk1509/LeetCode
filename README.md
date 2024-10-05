@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vinitk1509/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/vinitk1509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/vinitk1509/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinitk1509/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/vinitk1509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vinitk1509/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vinitk1509/LeetCode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
