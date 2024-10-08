@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinitk1509/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/vinitk1509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vinitk1509/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/vinitk1509/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/vinitk1509/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2639-separate-the-digits-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/vinitk1509/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/vinitk1509/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Math
