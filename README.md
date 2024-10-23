@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-count-tested-devices-after-test-operations](https://github.com/vinitk1509/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/vinitk1509/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinitk1509/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3582-find-indices-of-stable-mountains](https://github.com/vinitk1509/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
 | ------- |
