@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/vinitk1509/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/vinitk1509/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vinitk1509/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/vinitk1509/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2639-separate-the-digits-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/vinitk1509/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/vinitk1509/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vinitk1509/LeetCode/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/vinitk1509/LeetCode/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vinitk1509/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/vinitk1509/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/vinitk1509/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Bit Manipulation
 |  |
