@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/vinitk1509/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/vinitk1509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/vinitk1509/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/vinitk1509/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/vinitk1509/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vinitk1509/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vinitk1509/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
