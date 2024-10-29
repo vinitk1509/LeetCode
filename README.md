@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/vinitk1509/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/vinitk1509/LeetCode/tree/master/0890-lemonade-change) |
 | [1217-relative-sort-array](https://github.com/vinitk1509/LeetCode/tree/master/1217-relative-sort-array) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinitk1509/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vinitk1509/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinitk1509/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinitk1509/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vinitk1509/LeetCode/tree/master/0066-plus-one) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinitk1509/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/vinitk1509/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinitk1509/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
