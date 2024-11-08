@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/vinitk1509/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vinitk1509/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0598-range-addition-ii](https://github.com/vinitk1509/LeetCode/tree/master/0598-range-addition-ii) |
 | [0645-set-mismatch](https://github.com/vinitk1509/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/vinitk1509/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/vinitk1509/LeetCode/tree/master/0890-lemonade-change) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vinitk1509/LeetCode/tree/master/0066-plus-one) |
+| [0598-range-addition-ii](https://github.com/vinitk1509/LeetCode/tree/master/0598-range-addition-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinitk1509/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/vinitk1509/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vinitk1509/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
