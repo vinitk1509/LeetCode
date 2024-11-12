@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/vinitk1509/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/vinitk1509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/vinitk1509/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinitk1509/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1839-decode-xored-array](https://github.com/vinitk1509/LeetCode/tree/master/1839-decode-xored-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/vinitk1509/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitk1509/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/vinitk1509/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinitk1509/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vinitk1509/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinitk1509/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vinitk1509/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinitk1509/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vinitk1509/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vinitk1509/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinitk1509/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinitk1509/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vinitk1509/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
