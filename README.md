@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/vinitk1509/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2211-k-radius-subarray-averages](https://github.com/vinitk1509/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinitk1509/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2529-range-product-queries-of-powers](https://github.com/vinitk1509/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/vinitk1509/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2639-separate-the-digits-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/vinitk1509/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/vinitk1509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitk1509/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2529-range-product-queries-of-powers](https://github.com/vinitk1509/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vinitk1509/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/vinitk1509/LeetCode/tree/master/0861-flipping-an-image) |
 | [1839-decode-xored-array](https://github.com/vinitk1509/LeetCode/tree/master/1839-decode-xored-array) |
+| [2529-range-product-queries-of-powers](https://github.com/vinitk1509/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Greedy
 |  |
 | ------- |
