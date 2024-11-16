@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vinitk1509/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinitk1509/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/vinitk1509/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vinitk1509/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/vinitk1509/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vinitk1509/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinitk1509/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/vinitk1509/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
