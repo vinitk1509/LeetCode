@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vinitk1509/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vinitk1509/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vinitk1509/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vinitk1509/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vinitk1509/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/vinitk1509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/vinitk1509/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vinitk1509/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinitk1509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vinitk1509/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vinitk1509/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vinitk1509/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinitk1509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vinitk1509/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vinitk1509/LeetCode/tree/master/0455-assign-cookies) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vinitk1509/LeetCode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinitk1509/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/vinitk1509/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/vinitk1509/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/vinitk1509/LeetCode/tree/master/0198-house-robber) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vinitk1509/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
