@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vinitk1509/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinitk1509/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vinitk1509/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vinitk1509/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vinitk1509/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vinitk1509/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vinitk1509/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vinitk1509/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vinitk1509/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vinitk1509/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vinitk1509/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/vinitk1509/LeetCode/tree/master/0455-assign-cookies) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/vinitk1509/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/vinitk1509/LeetCode/tree/master/0242-valid-anagram) |
 | [1524-string-matching-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## String Matching
 |  |
