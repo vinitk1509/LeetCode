@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vinitk1509/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vinitk1509/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vinitk1509/LeetCode/tree/master/0189-rotate-array) |
 | [0598-range-addition-ii](https://github.com/vinitk1509/LeetCode/tree/master/0598-range-addition-ii) |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vinitk1509/LeetCode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vinitk1509/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
