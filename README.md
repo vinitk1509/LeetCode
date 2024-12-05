@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/vinitk1509/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vinitk1509/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/vinitk1509/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/vinitk1509/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/vinitk1509/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/vinitk1509/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Bit Manipulation
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinitk1509/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/vinitk1509/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/vinitk1509/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## String Matching
 |  |
 | ------- |
