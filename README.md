@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/vinitk1509/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/vinitk1509/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2639-separate-the-digits-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/vinitk1509/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/vinitk1509/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/vinitk1509/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/vinitk1509/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/vinitk1509/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinitk1509/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2639-separate-the-digits-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/vinitk1509/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/vinitk1509/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/vinitk1509/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vinitk1509/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/vinitk1509/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vinitk1509/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
 |  |
