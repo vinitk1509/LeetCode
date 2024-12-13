@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/vinitk1509/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinitk1509/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/vinitk1509/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2502-sort-the-people](https://github.com/vinitk1509/LeetCode/tree/master/2502-sort-the-people) |
 | [2529-range-product-queries-of-powers](https://github.com/vinitk1509/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/vinitk1509/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/vinitk1509/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/vinitk1509/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitk1509/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinitk1509/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2502-sort-the-people](https://github.com/vinitk1509/LeetCode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/vinitk1509/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/vinitk1509/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinitk1509/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinitk1509/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vinitk1509/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinitk1509/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2502-sort-the-people](https://github.com/vinitk1509/LeetCode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/vinitk1509/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/vinitk1509/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Simulation
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/vinitk1509/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/vinitk1509/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/vinitk1509/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2502-sort-the-people](https://github.com/vinitk1509/LeetCode/tree/master/2502-sort-the-people) |
 ## String Matching
 |  |
 | ------- |
