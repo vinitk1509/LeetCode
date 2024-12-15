@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/vinitk1509/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vinitk1509/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/vinitk1509/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0598-range-addition-ii](https://github.com/vinitk1509/LeetCode/tree/master/0598-range-addition-ii) |
 | [0645-set-mismatch](https://github.com/vinitk1509/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/vinitk1509/LeetCode/tree/master/0861-flipping-an-image) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vinitk1509/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vinitk1509/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/vinitk1509/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/vinitk1509/LeetCode/tree/master/0645-set-mismatch) |
 | [1217-relative-sort-array](https://github.com/vinitk1509/LeetCode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vinitk1509/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -265,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/vinitk1509/LeetCode/tree/master/1572-subrectangle-queries) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vinitk1509/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vinitk1509/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
