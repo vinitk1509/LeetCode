@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/vinitk1509/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2232-adding-spaces-to-a-string](https://github.com/vinitk1509/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinitk1509/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vinitk1509/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/vinitk1509/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/vinitk1509/LeetCode/tree/master/2502-sort-the-people) |
 | [2529-range-product-queries-of-powers](https://github.com/vinitk1509/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinitk1509/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/vinitk1509/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinitk1509/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vinitk1509/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2502-sort-the-people](https://github.com/vinitk1509/LeetCode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/vinitk1509/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/vinitk1509/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vinitk1509/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/vinitk1509/LeetCode/tree/master/0890-lemonade-change) |
 | [1139-previous-permutation-with-one-swap](https://github.com/vinitk1509/LeetCode/tree/master/1139-previous-permutation-with-one-swap) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vinitk1509/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Counting Sort
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vinitk1509/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/vinitk1509/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vinitk1509/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
