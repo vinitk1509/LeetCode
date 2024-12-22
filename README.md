@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/vinitk1509/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/vinitk1509/LeetCode/tree/master/0242-valid-anagram) |
+| [0551-student-attendance-record-i](https://github.com/vinitk1509/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0974-reorder-data-in-log-files](https://github.com/vinitk1509/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1524-string-matching-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1954-replace-all-digits-with-characters](https://github.com/vinitk1509/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
