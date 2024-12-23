@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/vinitk1509/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/vinitk1509/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/vinitk1509/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vinitk1509/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/vinitk1509/LeetCode/tree/master/0890-lemonade-change) |
 | [1139-previous-permutation-with-one-swap](https://github.com/vinitk1509/LeetCode/tree/master/1139-previous-permutation-with-one-swap) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/vinitk1509/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vinitk1509/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting Sort
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/vinitk1509/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/vinitk1509/LeetCode/tree/master/2502-sort-the-people) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/vinitk1509/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vinitk1509/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/vinitk1509/LeetCode/tree/master/0198-house-robber) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vinitk1509/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
