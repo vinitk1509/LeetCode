@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/vinitk1509/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/vinitk1509/LeetCode/tree/master/2502-sort-the-people) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/vinitk1509/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [3312-number-of-changing-keys](https://github.com/vinitk1509/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vinitk1509/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
