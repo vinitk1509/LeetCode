@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vinitk1509/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/vinitk1509/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/vinitk1509/LeetCode/tree/master/0890-lemonade-change) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/vinitk1509/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0974-reorder-data-in-log-files](https://github.com/vinitk1509/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1019-squares-of-a-sorted-array](https://github.com/vinitk1509/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1139-previous-permutation-with-one-swap](https://github.com/vinitk1509/LeetCode/tree/master/1139-previous-permutation-with-one-swap) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vinitk1509/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vinitk1509/LeetCode/tree/master/0189-rotate-array) |
 | [0598-range-addition-ii](https://github.com/vinitk1509/LeetCode/tree/master/0598-range-addition-ii) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/vinitk1509/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinitk1509/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinitk1509/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/vinitk1509/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vinitk1509/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vinitk1509/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vinitk1509/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/vinitk1509/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vinitk1509/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinitk1509/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinitk1509/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vinitk1509/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/vinitk1509/LeetCode/tree/master/0242-valid-anagram) |
 | [0551-student-attendance-record-i](https://github.com/vinitk1509/LeetCode/tree/master/0551-student-attendance-record-i) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/vinitk1509/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0974-reorder-data-in-log-files](https://github.com/vinitk1509/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1524-string-matching-in-an-array](https://github.com/vinitk1509/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1954-replace-all-digits-with-characters](https://github.com/vinitk1509/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/vinitk1509/LeetCode/tree/master/0198-house-robber) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/vinitk1509/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/vinitk1509/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
