@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/vinitk1509/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/vinitk1509/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vinitk1509/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1791-richest-customer-wealth](https://github.com/vinitk1509/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/vinitk1509/LeetCode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vinitk1509/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/vinitk1509/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/vinitk1509/LeetCode/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinitk1509/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-subrectangle-queries](https://github.com/vinitk1509/LeetCode/tree/master/1572-subrectangle-queries) |
+| [1791-richest-customer-wealth](https://github.com/vinitk1509/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/vinitk1509/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Counting
 |  |
