@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/vinitk1509/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1139-previous-permutation-with-one-swap](https://github.com/vinitk1509/LeetCode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1217-relative-sort-array](https://github.com/vinitk1509/LeetCode/tree/master/1217-relative-sort-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/vinitk1509/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinitk1509/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vinitk1509/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinitk1509/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vinitk1509/LeetCode/tree/master/0189-rotate-array) |
 | [0598-range-addition-ii](https://github.com/vinitk1509/LeetCode/tree/master/0598-range-addition-ii) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/vinitk1509/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/vinitk1509/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinitk1509/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vinitk1509/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/vinitk1509/LeetCode/tree/master/1635-number-of-good-pairs) |
