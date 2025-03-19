@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/vinitk1509/LeetCode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vinitk1509/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/vinitk1509/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/vinitk1509/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/vinitk1509/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitk1509/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/vinitk1509/LeetCode/tree/master/2048-build-array-from-permutation) |
