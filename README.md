@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vinitk1509/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/vinitk1509/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/vinitk1509/LeetCode/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/vinitk1509/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vinitk1509/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vinitk1509/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/vinitk1509/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vinitk1509/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/vinitk1509/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/vinitk1509/LeetCode/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/vinitk1509/LeetCode/tree/master/0598-range-addition-ii) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/vinitk1509/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/vinitk1509/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/vinitk1509/LeetCode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/vinitk1509/LeetCode/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/vinitk1509/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/vinitk1509/LeetCode/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0974-reorder-data-in-log-files](https://github.com/vinitk1509/LeetCode/tree/master/0974-reorder-data-in-log-files) |
